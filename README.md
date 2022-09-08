@@ -31,7 +31,7 @@ Your team also needs you to query some information from the database that you ha
 The context for the scenario is in a car dealership. It is assumed that this is a new car dealership and therefore cars do not get circulated back to the dealership. Each car can only be sold by one salesman. 
 
 ## 2. Database
-![alt text](https://github.com/xingyuan-tan/PostgreSQL-Demo/blob/main/section_2/db_diagram.png?raw=true)
+![alt text](https://github.com/xingyuan-tan/PostgreSQL-Demo/blob/main/db_diagram.png?raw=true)
 
 #### Model
 Since the model is the same, I have created a table to reduce replicating data in the car table.
